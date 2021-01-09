@@ -1,0 +1,7 @@
+.lead {
+    display: flex;
+    align-items: center;
+    flex-flow: column nowrap;
+
+    width: 100%;
+}

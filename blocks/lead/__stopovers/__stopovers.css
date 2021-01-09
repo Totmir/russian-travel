@@ -1,0 +1,10 @@
+.lead__stopovers {
+    position: relative;
+    top: 125px;
+    left: 50%;
+
+    width: 885px;
+    height: 225px;
+
+    transform: translateX(-50%);
+}
