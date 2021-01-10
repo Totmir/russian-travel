@@ -1,0 +1,7 @@
+.places {
+    display: flex;
+    flex-flow: column nowrap;
+
+    margin: 92px 0;
+    padding: 0 148px;
+}

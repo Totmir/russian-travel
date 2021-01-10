@@ -1,0 +1,5 @@
+.places__website {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: flex-end;
+}

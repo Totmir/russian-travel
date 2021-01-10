@@ -1,0 +1,11 @@
+.places__place {
+    display: grid;
+
+    grid-template-columns: 460px 484px;
+    grid-template-rows: 152px 460px;
+    gap: 40px 48px;
+}
+
+.places__place:not(:first-child) {
+    margin-top: 80px;
+}
