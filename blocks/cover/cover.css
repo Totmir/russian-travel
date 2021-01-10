@@ -1,0 +1,14 @@
+.cover {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 1184px;
+    height: 740px;
+    margin: 0 48px;
+
+    background: url(/images/cover/__background.png) no-repeat, rgba(42, 44, 47, .3);
+    background-size: cover;
+
+    background-blend-mode: multiply;
+}
