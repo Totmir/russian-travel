@@ -4,4 +4,11 @@
     flex-flow: column nowrap;
 
     width: 100%;
+    margin: 0 auto;
+}
+
+@media (max-width: 1024px) {
+    /* .lead {
+        width: calc(100% - 48px - 48px);
+    } */
 }

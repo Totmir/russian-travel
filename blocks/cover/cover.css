@@ -12,3 +12,7 @@
 
     background-blend-mode: multiply;
 }
+
+.cover:hover {
+    background: url(/images/cover/__background.png) no-repeat, rgba(42, 44, 47, .8);
+}

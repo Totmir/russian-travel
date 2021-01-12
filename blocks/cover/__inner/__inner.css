@@ -2,4 +2,8 @@
     display: flex;
     align-items: center;
     flex-flow: column wrap;
+
+    text-decoration: none;
+
+    color: white;
 }

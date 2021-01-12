@@ -2,10 +2,18 @@
     display: grid;
 
     grid-template-columns: 460px 484px;
-    grid-template-rows: 152px 460px;
+    grid-template-rows: auto 460px;
     gap: 40px 48px;
 }
 
 .places__place:not(:first-child) {
     margin-top: 80px;
+}
+
+@media (max-width: 1024px) {
+    .places__place {
+        grid-template-columns: 440px 456px;
+        grid-template-rows: auto 440px;
+        gap: 32px 48px;
+    }
 }

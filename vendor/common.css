@@ -4,3 +4,7 @@
 
     list-style: none;
 }
+
+* [class*="__link"]:hover {
+    opacity: .8;
+}
