@@ -7,14 +7,14 @@
     height: 740px;
     margin: 0 48px;
 
-    background: url(/images/cover/__background.png) no-repeat, rgba(42, 44, 47, .3);
+    background: url(../../images/cover/__background.png) no-repeat, rgba(42, 44, 47, .3);
     background-size: cover;
 
     background-blend-mode: multiply;
 }
 
 .cover:hover {
-    background: url(/images/cover/__background.png) no-repeat, rgba(42, 44, 47, .8);
+    background: url(../../images/cover/__background.png) no-repeat, rgba(42, 44, 47, .8);
 }
 
 @media (max-width: 1024px) {
