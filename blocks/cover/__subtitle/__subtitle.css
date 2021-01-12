@@ -1,7 +1,7 @@
 .cover__subtitle {
     position: relative;
 
-    width: 100%;
+    max-width: 100%;
     max-width: 360px;
     margin-top: 32px;
 

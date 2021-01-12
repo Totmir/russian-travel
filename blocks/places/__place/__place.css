@@ -12,7 +12,7 @@
 
 @media (max-width: 1024px) {
     .places__place {
-        grid-template-columns: 440px 456px;
+        grid-template-columns: 440px 1fr;
         grid-template-rows: auto 440px;
         gap: 32px 48px;
     }
