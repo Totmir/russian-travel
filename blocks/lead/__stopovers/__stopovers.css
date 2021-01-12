@@ -8,3 +8,17 @@
 
     transform: translateX(-50%);
 }
+
+@media (max-width: 1024px) {
+    .lead__stopovers {
+        width: 835px;
+        height: 211px;
+    }
+}
+
+@media (max-width: 768px) {
+    .lead__stopovers {
+        width: 691px;
+        height: 175px;
+    }
+}
