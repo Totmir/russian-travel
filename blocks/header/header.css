@@ -8,3 +8,9 @@
 
     font-weight: 900;
 }
+
+@media (max-width: 320px) {
+    .header {
+        padding: 0 16px;
+    }
+}

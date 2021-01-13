@@ -11,3 +11,10 @@
         line-height: 26px;
     }
 }
+
+@media (max-width: 320px) {
+    .places__paragraph {
+        margin-bottom: 25px;
+        padding: 0 16px;
+    }
+}

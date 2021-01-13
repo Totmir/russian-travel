@@ -11,3 +11,11 @@
         margin: 92px 24px 0 24px;
     }
 }
+
+@media (max-width: 320px) {
+    .footer {
+        flex-flow: column nowrap;
+
+        margin: 62px 16px 0 16px;
+    }
+}
