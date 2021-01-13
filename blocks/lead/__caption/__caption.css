@@ -1,5 +1,5 @@
 .lead__caption {
-    width: 984px;
+    width: 100%;
     margin: 8px 0 0 0;
 
     letter-spacing: .15em;
@@ -11,7 +11,7 @@
 
 @media (max-width: 1024px) {
     .lead__caption {
-        width: 931px;
+        width: 100%;
     }
 }
 

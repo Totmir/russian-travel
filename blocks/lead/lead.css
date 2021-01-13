@@ -5,4 +5,11 @@
 
     max-width: 100%;
     margin: 0 auto;
+    padding: 0 148px 0 148px;
+}
+
+@media (max-width: 1024px) {
+    .lead {
+        padding: 0 48px 0 48px;
+    }
 }

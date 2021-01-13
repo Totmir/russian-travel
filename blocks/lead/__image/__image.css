@@ -1,13 +1,13 @@
 .lead__image {
+    width: 100%;
     max-width: 100%;
     height: 615px;
 
-    background: center/100% url(../../../images/lead/kalegin-michail-179870-unsplash.png) no-repeat;
+    background: center/cover url(../../../images/lead/kalegin-michail-179870-unsplash.png) no-repeat;
 }
 
 @media (max-width: 1024px) {
     .lead__image {
-        padding: 0 48px 0 48px;
     }
 }
 
@@ -18,7 +18,7 @@
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 320px) {
     .lead__image {
         width: 320px;
         height: 200px;
