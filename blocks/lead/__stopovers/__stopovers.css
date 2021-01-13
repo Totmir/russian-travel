@@ -11,14 +11,12 @@
 
 @media (max-width: 1024px) {
     .lead__stopovers {
-        width: 835px;
         height: 211px;
     }
 }
 
 @media (max-width: 768px) {
     .lead__stopovers {
-        width: 691px;
         height: 175px;
     }
 }
@@ -27,7 +25,6 @@
     .lead__stopovers {
         top: 41px;
 
-        width: 288px;
         height: 73px;
     }
 }

@@ -1,5 +1,6 @@
 .lead {
     display: flex;
+    overflow: hidden;
     align-items: center;
     flex-flow: column nowrap;
 
