@@ -12,7 +12,7 @@
     }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 550px) {
     .footer {
         flex-flow: column nowrap;
 

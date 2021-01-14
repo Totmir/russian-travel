@@ -3,7 +3,7 @@
     flex-flow: row nowrap;
 }
 
-@media (max-width: 320px) {
+@media (max-width: 500px) {
     .footer__navigation {
         flex-flow: column;
 

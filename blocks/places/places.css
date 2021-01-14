@@ -4,6 +4,8 @@
 
     margin: 92px 0;
     padding: 0 148px;
+
+    list-style: none;
 }
 
 @media (max-width: 1024px) {
