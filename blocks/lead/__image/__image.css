@@ -4,6 +4,9 @@
     height: 615px;
 
     background: center/cover url(../../../images/lead/kalegin-michail-179870-unsplash.png) no-repeat;
+
+    object-position: center;
+    object-fit: cover;
 }
 
 @media (max-width: 1024px) {

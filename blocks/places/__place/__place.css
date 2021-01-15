@@ -17,6 +17,8 @@
 
 @media (max-width: 768px) {
     .places__place {
+        margin-top: 73px;
+
         gap: 48px 28px;
     }
 }
@@ -26,7 +28,9 @@
         grid-template-columns: 1fr;
         gap: 32px;
     }
+}
 
+@media (max-width: 375px) {
     .places__place:not(:first-child) {
         margin-top: 50px;
     }

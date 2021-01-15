@@ -3,7 +3,7 @@
     font-weight: 400;
     font-style: normal;
 
-    src: url(../fonts/Inter.ttf) format(opentype);
+    src: url("../fonts/Inter-Regular.woff") format(woff);
 }
 
 @font-face {
@@ -11,7 +11,7 @@
     font-weight: 700;
     font-style: normal;
 
-    src: url(../fonts/Inter-Bold.woff) format(woff);
+    src: url("../fonts/Inter-Bold.woff") format(woff);
 }
 
 @font-face {
@@ -19,5 +19,5 @@
     font-weight: 900;
     font-style: normal;
 
-    src: url(../fonts/Inter-Black.ttf) format(opentype);
+    src: url("../fonts/Inter-Black.woff") format(woff);
 }
