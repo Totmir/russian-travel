@@ -2,7 +2,7 @@
     margin: 92px 442px 92px 148px;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1200px) {
     .intro {
         margin: 92px 268px 92px 48px;
     }
